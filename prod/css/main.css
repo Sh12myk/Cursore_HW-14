@@ -1,11 +1,18 @@
 .spinner-wrapper {
     position: fixed;
-    top: 50%;
+    height: 100vh;
+    top: 0;
     left: 0;
     right: 0;
     bottom: 0;
     background-color: #d6aa30;
     z-index: 999999;
+}
+
+.spinner {
+    position: absolute;
+    top: 48%;
+    left: 48%;
 }
 
 .sk-folding-cube {
