@@ -554,6 +554,27 @@ button {
     margin-right: 95px;
 }
 
+.adv1 {
+    background: url(../img/sprites.png) -274px 0;
+    width: 60px;
+    height: 71px;
+    margin: auto;
+}
+
+.adv2 {
+    background: url(../img/sprites.png) -200px 0;
+    width: 59px;
+    height: 72px;
+    margin: auto;
+}
+
+.adv3 {
+    background: url(../img/sprites.png) 73px 0;
+    width: 65px;
+    height: 71px;
+    margin: auto;
+}
+
 .advantages {
     text-align: center;
     display: -webkit-box;
